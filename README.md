@@ -1,16 +1,30 @@
-## Hi there 👋
+# Привет, я Антон 👋
 
-<!--
-**AntonIlinskiy/AntonIlinskiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Бэкенд-разработчик / Telegram-боты / Python. Люблю простые и полезные продукты.
 
-Here are some ideas to get you started:
+## 🚀 Проекты
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏗 Construction Bot
+
+Бот-визитка для строительной компании: услуги, портфолио (галерея), отзывы, заявка с телефоном.  
+**Стек:** Python 3.12, aiogram 3.x  
+**Код:** [/portfolio-projects/construction-bot](https://github.com/AntonIlinskiy/portfolio-projects/tree/main/construction-bot)
+
+### 💚 Health Bot
+
+Набросок бота для ЗОЖ/привычек: команды, трекинг, напоминания (демо).  
+**Стек:** Python, aiogram  
+**Код:** [/portfolio-projects/health-bot](https://github.com/AntonIlinskiy/portfolio-projects/tree/main/health-bot)
+
+## 🧰 Технологии
+
+Python • aiogram • requests • Git • HTML/CSS • GitHub Actions (базово)
+
+## 📬 Контакты
+
+TG: @AntonIlinskiy• Email: antonilinskiy8@gmail.com
+
+---
+
+🗂 Портфолио как лендинг:  
+**GitHub Pages:** https://antonilinskiy.github.io/portfolio-projects/
