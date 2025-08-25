@@ -5,6 +5,20 @@
 
 ---
 
+## 🛠️ Стек и технологии
+
+![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-async-009688?logo=fastapi)
+![Aiogram](https://img.shields.io/badge/aiogram-3.x-2C2D72?logo=telegram&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-ORM-red?logo=databricks)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-DB-4169E1?logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-lightgrey?logo=sqlite&logoColor=003B57)
+![Docker](https://img.shields.io/badge/Docker-containers-2496ED?logo=docker&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-actions-181717?logo=github)
+![APScheduler](https://img.shields.io/badge/APScheduler-tasks-orange)
+
+---
+
 ## 🚀 Проекты
 
 ### 🏗️ Construction Bot
@@ -44,16 +58,6 @@
 
 **Стек:** Python, aiogram 3, SQLAlchemy, APScheduler  
 🔗 [Код](https://github.com/AntonIlinskiy/portfolio-projects/tree/main/service-booking-bot)
-
----
-
-## 🛠️ Технологии
-
-- **Backend:** Python 3.12+, FastAPI, aiogram 3, asyncio, REST API
-- **Базы данных:** SQLAlchemy, PostgreSQL, SQLite
-- **DevOps:** Docker, Git/GitHub, CI/CD, .env
-- **Парсинг/Автоматизация:** Playwright, BeautifulSoup
-- **Инструменты:** APScheduler, Markdown, Jinja2
 
 ---
 
