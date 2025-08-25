@@ -59,7 +59,7 @@
 
 ## 📊 Портфолио-сайт
 
-🌐 [antonilinskiy.github.io](https://antonilinskiy.github.io/)
+🌐 https://antonilinskiy.github.io/portfolio-site/
 
 Там можно:
 
